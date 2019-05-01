@@ -6,4 +6,16 @@
 
 Due date (4/27/2019)
 
-#Model 
+#Model
+Features: Month, Hour (group into hours), Community Area
+- 24 groups
+
+- Only predict 5 crime types
+--> Use Phi's notebook for hour and month extraction
+
+Decision tree - Minh
+Neural nets - Daiki
+Naive Bayes - James
+Random forest - Phi
+
+Meet on Wednesday - 9PM - The U
